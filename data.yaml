@@ -1,0 +1,5 @@
+train: /Users/yuthishkumar/Downloads/rabititandface/images/train
+val: /Users/yuthishkumar/Downloads/rabititandface/images/val
+
+nc: 4
+names: ['rabbit', 'face', 'cat', 'bird']
